@@ -1,12 +1,12 @@
 [
   {
     "username": "fr3newera",
-    "email": "rendyindraperatama789@gmail.com",
-    "password": "fr3newera123"
+    "gmail": "rendyindraperatama789@gmail.com",
+    "password": "123456"
   },
   {
-    "username": "user1",
-    "email": "user1@gmail.com",
-    "password": "password123"
+    "username": "admin",
+    "gmail": "admin@example.com",
+    "password": "admin123"
   }
 ]
